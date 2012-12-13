@@ -15,6 +15,10 @@ Initialization:
  </pre>
 </div>
 
-<p>Now default styles are in use in scrollbar. Adding any scrollbar configuration options such as width, color etc. is in progress.</p>
+<p>Parental element the content of which you need to scroll must have 'position: "relative" or "absolute"'.<p>
+
+<p>Now default styles are in use in scrollbar. Adding any scrollbar configuration options such as width, background-color etc. is in progress.</p>
+
+
 
 
