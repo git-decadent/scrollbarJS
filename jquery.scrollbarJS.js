@@ -4,7 +4,7 @@
 * Copyright 2012, Egor Skorobogatov
 * egor.skorobogatov@gmail.com
 *
-* Released under the MIT, BSD, and GPL Licenses
+* Released under the MIT.
 *
 * Change of standart scrollbar in html elements in browser.
 *
