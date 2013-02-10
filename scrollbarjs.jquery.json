@@ -1,0 +1,26 @@
+{
+    "name": "scrollbarjs",
+    "title": "jQuery.scrollbarJS",
+    "description": "jQuery plugin for change default scrollbar in element with property overflow: hidden.",
+    "keywords": [
+        "scrollbar",
+        "overflow",
+        "ui"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Egor Skorobogatov",
+        "url": "http://188.127.227.198:3000/"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/git-decadent/scrollbarJS/blob/master/LICENSE-mit.md"
+        }
+    ],
+    "bugs": "https://github.com/git-decadent/scrollbarJS/issues",
+    "homepage": "https://github.com/git-decadent/scrollbarJS",
+    "dependencies": {
+        "jquery": ">=1.5.2"
+    }
+}
