@@ -1,8 +1,8 @@
-## ScrollbarJS
+# ScrollbarJS
 
 jQuery plugin to replace a default browser scrollbar
 
-# Usage
+## Usage
 
 ```js
 $.scrollbar({
